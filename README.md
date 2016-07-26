@@ -12,7 +12,6 @@ and then go to http://localhost:1337 to see the result.
 
 ### (b) 2nd way: use nodemon (node monitor)
 
-> **How to install nodemon globally?**Type `$ npm install -g nodemon` in your terminal
 
 Run the .js file, example:
 
@@ -20,8 +19,11 @@ Run the .js file, example:
 
 and then go to http://localhost:1337 to see the result. 
 
+> **How to install nodemon globally?**
+> Type `$ npm install -g nodemon` in your terminal
+
 > **What's the benefit of nodemon?** 
-If you make any change inside your files you don't need to restart node server, it does it for you. 
+> If you make any change inside your files you don't need to restart node server, it does it for you. 
 
 ## What type of servers do we see here?
 
