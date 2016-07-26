@@ -25,7 +25,7 @@ and then go to http://localhost:1337 to see the result.
 ### What's the benefit of nodemon? 
 If you make any change inside your files you don't need to restart node server, it does it for you. 
 
-
+## What type of servers do we see here?
 
 | filename | description |
 | --- | --- |
