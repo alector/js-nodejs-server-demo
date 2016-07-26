@@ -16,7 +16,7 @@ Install nodemon globally:
 
     $ npm install -g nodemon 
 
-Run a the .js file:
+Run the .js file:
 
     $ nodemon server1.js
 
