@@ -4,7 +4,11 @@ An example of node.js server demo
 If you want to run a server file (e.g. server1.js ) type: 
 
     $ node server1.js
+
+Table of files: 
+
 | filename | description |
+| --- | --- |
 | **server1.js** | Simple node.js server | 
 | **server2.js** |Load external html synchronously |
 | **server3.js** | Load external html asynchronously (streams and pipe) |
