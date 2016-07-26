@@ -5,6 +5,7 @@ If you want to run a server file (e.g. server1.js ) type:
 
     $ node server1.js
 
+and then go to http://localhost:1337 to see the result. 
 
 | filename | description |
 | --- | --- |
