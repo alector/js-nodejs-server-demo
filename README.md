@@ -1,16 +1,16 @@
 # js-nodejs-server-demo
 An example of node.js server demo
 
-## How to run the server?
+## 1. How to run the server?
 
-### 1st way: use node 
+### (a) 1st way: use node 
 If you want to run a server file (e.g. server1.js ) type: 
 
     $ node server1.js
 
 and then go to http://localhost:1337 to see the result. 
 
-### 2nd way: use nodemon (node monitor)
+### (b) 2nd way: use nodemon (node monitor)
 
 Install nodemon globally:
 
@@ -22,7 +22,7 @@ Run the .js file:
 
 and then go to http://localhost:1337 to see the result. 
 
-### What's the benefit of nodemon? 
+> **What's the benefit of nodemon?** 
 If you make any change inside your files you don't need to restart node server, it does it for you. 
 
 ## What type of servers do we see here?
