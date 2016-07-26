@@ -12,11 +12,9 @@ and then go to http://localhost:1337 to see the result.
 
 ### (b) 2nd way: use nodemon (node monitor)
 
-Install nodemon globally:
+> **How to install nodemon globally?**Type `$ npm install -g nodemon` in your terminal
 
-    $ npm install -g nodemon 
-
-Run the .js file:
+Run the .js file, example:
 
     $ nodemon server1.js
 
