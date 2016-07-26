@@ -14,6 +14,7 @@ http.createServer( function (req_stream, resp_stream){
     }
 
 
+    // serialising = convert object to json
     resp_stream.end(JSON.stringify(data))
 
 
