@@ -7,6 +7,8 @@ http.createServer( function (request, response){
     console.log("There is a request!")
 
     response.writeHead(200, {'Content-Type': 'text/html'})
+
+    //synchronous load of html
     var html = fs.readFileSync(__dirname + "/index.html")
     response.end(html)
 
